@@ -1,4 +1,4 @@
-<h1>Database Setup and Schema Design</h1>
+![image](https://github.com/user-attachments/assets/7254a07e-cb48-435d-b357-cbbf8483f854)<h1>Database Setup and Schema Design</h1>
 
 <h2>📌Objective</h2>
 To create database, tables, and define entities and relationships using SQL.
@@ -14,15 +14,17 @@ ER_DIAG_scriptfile.sql --> SQL script used to create a schema and ER Diagram
 3. CRUD operations
 
 <h2> 📈 Insights Derived </h2>
-- Domain selection (E-Commerce)
-- Definition of entities 
-- Realtionships definition
-- Database creation
-- Table Creation, Updation
-- Reverse Engineering to obtain an ER diagram (schema design)
-- Forward Engineering to generate an SQL script file for schema design
-![image](https://github.com/user-attachments/assets/c12d3881-7903-4e97-ab25-196cfb5e49f9)
-![image](https://github.com/user-attachments/assets/2e8dba20-8df7-4474-8a3a-745eb52d2f1f)
+- Domain selection (E-Commerce) <br>
+- Definition of entities <br>
+- Realtionships definition<br>
+- Database creation<br>
+- Table Creation, Updation<br>
+- Reverse Engineering to obtain an ER diagram (schema design)<br>
+- Forward Engineering to generate an SQL script file for schema design<br>
+ER DIAGRAM (1) - ![er1](https://github.com/user-attachments/assets/333316d8-1269-43fa-a1dc-4f5e9505b6e7) <br>
+ER DIAGRAM (2) - ![image](https://github.com/user-attachments/assets/fb585d41-661e-4bbc-b45a-98c02bbffc3b)
+
+
 
 
 
