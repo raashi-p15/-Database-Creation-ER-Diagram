@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7254a07e-cb48-435d-b357-cbbf8483f854)<h1>Database Setup and Schema Design</h1>
+<h1>Database Setup and Schema Design</h1>
 
 <h2>📌Objective</h2>
 To create database, tables, and define entities and relationships using SQL.
