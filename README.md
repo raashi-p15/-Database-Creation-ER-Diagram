@@ -5,8 +5,8 @@ To create database, tables, and define entities and relationships using SQL.
 
 
 <h2> 📁 What's in this Repository? </h2>
-1. <imp>README.md</imp> --> Project Description <br>
-2. <imp>ER_DIAG_scriptfile.sql</imp> --> SQL script used to create a schema and ER Diagram
+1. <mark>README.md</mark> --> Project Description <br>
+2. <mark>ER_DIAG_scriptfile.sql</mark> --> SQL script used to create a schema and ER Diagram
 
 <h2>🛠️ Tools and SQL Techniques Used</h2>
 1. MySQL Workbench <br>
