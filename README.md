@@ -25,7 +25,7 @@ To create database, tables, and define entities and relationships using SQL.
 
 
 ER DIAGRAM (1) - ![er1](https://github.com/user-attachments/assets/333316d8-1269-43fa-a1dc-4f5e9505b6e7) <br>
-ER DIAGRAM (2) - ![er2](https://github.com/user-attachments/assets/284a9878-62e2-4a25-a217-523408cc3ab6)
+ ![er2](https://github.com/user-attachments/assets/284a9878-62e2-4a25-a217-523408cc3ab6)
 
 
 
