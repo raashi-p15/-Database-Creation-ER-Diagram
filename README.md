@@ -21,6 +21,11 @@ ER_DIAG_scriptfile.sql --> SQL script used to create a schema and ER Diagram
 - Table Creation, Updation
 - Reverse Engineering to obtain an ER diagram (schema design)
 - Forward Engineering to generate an SQL script file for schema design
+![image](https://github.com/user-attachments/assets/c12d3881-7903-4e97-ab25-196cfb5e49f9)
+![image](https://github.com/user-attachments/assets/2e8dba20-8df7-4474-8a3a-745eb52d2f1f)
+
+
+
 
 <h2> 📋Developer's Note</h2>
 This task is meant to familarize you with the fundamental concepts of RDBMS namely, entities, relationships, schema, er diagrams, as well as provide practical experience in designing a schema and creating a database.
